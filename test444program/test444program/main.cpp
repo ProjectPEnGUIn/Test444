@@ -13,6 +13,8 @@ int main()
 
 	//this textlien has been ´written localy onto eriks datoo
 
+	std::cin.get(); //added a pause thingy
+
 	return 0;
 
 }

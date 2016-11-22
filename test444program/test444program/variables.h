@@ -3,5 +3,5 @@
 #define _VARIABLES_
 
 int a = 10;
-int b = 3;
+int b = 2;
 #endif // ! _VARIABLES_
