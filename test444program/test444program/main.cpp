@@ -3,6 +3,7 @@
 #include <iostream>
 
 #include "variables.h"
+#include "Header.h"
 
 int main()
 {
@@ -12,6 +13,8 @@ int main()
 		std::cout << "WTF NOO WRONG";
 
 	//this textlien has been ´written localy onto eriks datoo
+
+	std::cout << c << std::endl;
 
 	std::cin.get(); //added a pause thingy
 
