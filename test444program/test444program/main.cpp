@@ -6,8 +6,8 @@
 
 int main()
 {
-	if (a == 10)
-		std::cout << "a is 10\n";
+	if (a == 10 && b == 3)
+		std::cout << "a is 10 and b is 3\n";
 
 	return 0;
 
