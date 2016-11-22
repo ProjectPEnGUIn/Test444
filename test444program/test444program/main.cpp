@@ -9,6 +9,8 @@ int main()
 	if (a == 10 && b == 3)
 		std::cout << "a is 10 and b is 3\n";
 
+	//this textlien has been ´written localy onto eriks datoo
+
 	return 0;
 
 }
